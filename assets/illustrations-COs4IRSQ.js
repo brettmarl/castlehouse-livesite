@@ -1,0 +1,1 @@
+var e={nextChapter:`next-chapter`,entrepreneurs:`entrepreneurs`,lifestyleChangers:`lifestyle-changers`},t=t=>`/downloads/castle-house-${e[t]}-financial-illustration.pdf`;export{e as n,t};
